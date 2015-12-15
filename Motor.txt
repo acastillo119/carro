@@ -1,4 +1,8 @@
 String marca
 Int cilindraje
+
 string tipo
+
+int serie
+
 float peso
