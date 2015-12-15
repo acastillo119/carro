@@ -1,0 +1,3 @@
+String marca
+Int cilindraje
+float peso
